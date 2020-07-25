@@ -1,4 +1,4 @@
-# Lab2 IPC in FreeRTOS part 1: QueuesS
+# Lab3 IPC in FreeRTOS part 1: QueuesS
 
 ## OBJECTIVES
 
